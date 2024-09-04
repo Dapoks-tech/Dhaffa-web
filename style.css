@@ -75,7 +75,7 @@ section {
 
 
 header{
-      background: url('backgornd hero.jpeg');
+      background: url(backgornd hero.jpeg);
       height: 100vh;
       background-position: center center;
       background-size: cover;
